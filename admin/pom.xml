@@ -99,7 +99,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.47</version>
+            <version>8.0.16</version>
         </dependency>
         <!-- 以下部分是杂七杂八用到的类库 -->
         <dependency>
